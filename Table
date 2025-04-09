@@ -230,20 +230,30 @@
 	["MeetARobloxADM"] = {id = 0, order = 0},
 	["MeetTheRoblox"] = {id = 0, order = 0},
 
+	--- Owner ---
+
+	["BeTheOwner"] = 0,
+	["MeetTheOwner"] = 0,
+	["ClickOnOwner"] = 0,
+	["TouchOwner"] = 0,
+	["BeAFriendOfOwner"] = 0,
+	
 	--- Kreek ---
-
-	["BeTheKreek"] = {id = 0, order = 0},
-	["MeetTheKreek"] = {id = 0, order = 0},
-	["ClickOnKreek"] = {id = 0, order = 0},
-	["TouchKreek"] = {id = 0, order = 0},
-	["BeAFriendOfKreek"] = {id = 0, order = 0},
-
+	
+	["BeTheKreek"] = 0,
+	["MeetTheKreek"] = 0,
+	["ClickOnKreek"] = 0,
+	["TouchKreek"] = 0,
+	["BeAFriendOfKreek"] = 0,
+	
 	--- yTowakGB ---
-
-	["BeTheTowak "]= {id = 0, order = 0},
-	["MeetTheTowak"] = {id = 0, order = 0},
-	["ClickOnTowak"] = {id = 0, order = 0},
-	["TouchTowak"] = {id = 0, order = 0},
-	["BeAFriendOfTowak"] = {id = 0, order = 0},
+	
+	["BeTheTowak "]= 0,
+	["MeetTheTowak"] = 0,
+	["ClickOnTowak"] = 0,
+	["TouchTowak"] = 0,
+	["BeAFriendOfTowak"] = 0,
+	
+	["GetAllBadges"] = 0,
 
 }
