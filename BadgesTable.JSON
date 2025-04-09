@@ -7,21 +7,22 @@
     "Fall": {"id": 190308466718429, "order": 6},
     "Dance": {"id": 3558944235350259, "order": 7},
     "Sit": {"id": 350577064860602, "order": 8},
+    "SendMessage": {"id": 1227197734288830, "order": 9},
     
-    "PlayWithFriend": {"id": 542668233204708, "order": 9},
-    "PlayWithoutFriend": {"id": 565233463439163, "order": 10},
-    "JoinInFriend": {"id": 1045805836904562, "order": 11},
-    "BeJoinedByFriend": {"id": 294816345523948, "order": 12},
+    "PlayWithFriend": {"id": 542668233204708, "order": 10},
+    "PlayWithoutFriend": {"id": 565233463439163, "order": 11},
+    "JoinInFriend": {"id": 1045805836904562, "order": 12},
+    "BeJoinedByFriend": {"id": 294816345523948, "order": 13},
 
-    "HaveR15Avatar": {"id": 4526026398656, "order": 13},
-    "HaveR6Avatar": {"id": 2107866661645686, "order": 14},
+    "HaveR15Avatar": {"id": 4526026398656, "order": 14},
+    "HaveR6Avatar": {"id": 2107866661645686, "order": 15},
 
     "PlayOnComputer": {"id": 0, "order": 0},
     "PlayOnPhone": {"id": 0, "order": 0},
     "PlayOnVR": {"id": 0, "order": 0},
     "PlayOnConsole": {"id": 0, "order": 0},
 
-    "Hack": {"id": 122719773428883, "order": 15},
+    "Hack": {"id": 0, "order": 0},
 
     "GoToSun": {"id": 0, "order": 0},
     "GoToMoon": {"id": 0, "order": 0},
