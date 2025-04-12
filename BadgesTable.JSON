@@ -17,10 +17,100 @@
     "HaveR15Avatar": {"id": 4526026398656, "order": 14},
     "HaveR6Avatar": {"id": 2107866661645686, "order": 15},
 
-    "PlayOnComputer": {"id": 0, "order": 29},
-    "PlayOnPhone": {"id": 0, "order": 28},
-    "PlayOnVR": {"id": 0, "order": 27},
-    "PlayOnConsole": {"id": 0, "order": 26},
+    "BeAPremium": {"id": 3141506201045949, "order": 16},
+    "BeAVerified": {"id": 3892600671918497, "order": 18},
+    "BeAVideoStar": {"id": 2023185162721889, "order": 17},
+    "BeARobloxADM": {"id": 4313391059780047, "order": 19},
+    "BeTheRoblox": {"id": 1970917524354185, "order": 20},
+
+    "MeetAPremium": {"id": 0, "order": 21},
+    "MeetAVideoStar": {"id": 0, "order": 22},
+    "MeetAVerified": {"id": 0, "order": 23},
+    "MeetARobloxADM": {"id": 0, "order": 24},
+    "MeetTheRoblox": {"id": 0, "order": 25},
+
+    "PlayOnComputer": {"id": 0, "order": 26},
+    "PlayOnPhone": {"id": 0, "order": 27},
+    "PlayOnVR": {"id": 0, "order": 28},
+    "PlayOnConsole": {"id": 0, "order": 29},
+
+    "a": {"id": 4436604898901963, "order": 30},
+    "A": {"id": 817206154263999, "order": 31},
+
+    "b": {"id": 2337772107478095, "order": 32},
+    "B": {"id": 789511240304689, "order": 33},
+
+    "c": {"id": 2835419890844079, "order": 34},
+    "C": {"id": 0, "order": 35},
+
+    "d": {"id": 0, "order": 36},
+    "D": {"id": 0, "order": 37},
+
+    "e": {"id": 0, "order": 38},
+    "E": {"id": 0, "order": 39},
+
+    "f": {"id": 0, "order": 40},
+    "F": {"id": 0, "order": 41},
+
+    "g": {"id": 0, "order": 42},
+    "G": {"id": 0, "order": 43},
+
+    "h": {"id": 0, "order": 44},
+    "H": {"id": 0, "order": 45},
+
+    "i": {"id": 0, "order": 46},
+    "I": {"id": 0, "order": 47},
+
+    "j": {"id": 0, "order": 48},
+    "J": {"id": 0, "order": 49},
+
+    "k": {"id": 0, "order": 50},
+    "K": {"id": 0, "order": 51},
+    
+    "l": {"id": 0, "order": 52},
+    "L": {"id": 0, "order": 53},
+    
+    "m": {"id": 0, "order": 54},
+    "M": {"id": 0, "order": 55},
+    
+    "n": {"id": 0, "order": 56},
+    "N": {"id": 0, "order": 57},
+    
+    "o": {"id": 0, "order": 58},
+    "O": {"id": 0, "order": 59},
+    
+    "p": {"id": 0, "order": 60},
+    "P": {"id": 0, "order": 61},
+    
+    "q": {"id": 0, "order": 62},
+    "Q": {"id": 0, "order": 63},
+    
+    "r": {"id": 0, "order": 64},
+    "R": {"id": 0, "order": 65},
+    
+    "s": {"id": 0, "order": 66},
+    "S": {"id": 0, "order": 67},
+    
+    "t": {"id": 0, "order": 68},
+    "T": {"id": 0, "order": 0},
+    
+    "u": {"id": 0, "order": 69},
+    "U": {"id": 0, "order": 70},
+    
+    "v": {"id": 0, "order": 71},
+    "V": {"id": 0, "order": 72},
+    
+    "w": {"id": 0, "order": 73},
+    "W": {"id": 0, "order": 74},
+    
+    "x": {"id": 0, "order": 75},
+    "X": {"id": 0, "order": 76},
+    
+    "y": {"id": 0, "order": 77},
+    "Y": {"id": 0, "order": 78},
+    
+    "z": {"id": 0, "order": 79},
+    "Z": {"id": 0, "order": 80},
 
     "Hack": {"id": 0, "order": 0},
 
@@ -72,57 +162,6 @@
     "Caret": {"id": 0, "order": 0},
     "Underscore": {"id": 0, "order": 0},
     "Backquote": {"id": 0, "order": 0},
-    "a": {"id": 4436604898901963, "order": 30},
-    "b": {"id": 2337772107478095, "order": 32},
-    "c": {"id": 2835419890844079, "order": 34},
-    "d": {"id": 0, "order": 0},
-    "e": {"id": 0, "order": 0},
-    "f": {"id": 0, "order": 0},
-    "g": {"id": 0, "order": 0},
-    "h": {"id": 0, "order": 0},
-    "i": {"id": 0, "order": 0},
-    "k": {"id": 0, "order": 0},
-    "l": {"id": 0, "order": 0},
-    "m": {"id": 0, "order": 0},
-    "n": {"id": 0, "order": 0},
-    "o": {"id": 0, "order": 0},
-    "p": {"id": 0, "order": 0},
-    "q": {"id": 0, "order": 0},
-    "r": {"id": 0, "order": 0},
-    "s": {"id": 0, "order": 0},
-    "t": {"id": 0, "order": 0},
-    "u": {"id": 0, "order": 0},
-    "v": {"id": 0, "order": 0},
-    "w": {"id": 0, "order": 0},
-    "x": {"id": 0, "order": 0},
-    "y": {"id": 0, "order": 0},
-    "z": {"id": 0, "order": 0},
-    "A": {"id": 817206154263999, "order": 31},
-    "B": {"id": 789511240304689, "order": 33},
-    "C": {"id": 0, "order": 0},
-    "D": {"id": 0, "order": 0},
-    "E": {"id": 0, "order": 0},
-    "F": {"id": 0, "order": 0},
-    "G": {"id": 0, "order": 0},
-    "H": {"id": 0, "order": 0},
-    "I": {"id": 0, "order": 0},
-    "J": {"id": 0, "order": 0},
-    "K": {"id": 0, "order": 0},
-    "L": {"id": 0, "order": 0},
-    "M": {"id": 0, "order": 0},
-    "N": {"id": 0, "order": 0},
-    "O": {"id": 0, "order": 0},
-    "P": {"id": 0, "order": 0},
-    "Q": {"id": 0, "order": 0},
-    "R": {"id": 0, "order": 0},
-    "S": {"id": 0, "order": 0},
-    "T": {"id": 0, "order": 0},
-    "U": {"id": 0, "order": 0},
-    "V": {"id": 0, "order": 0},
-    "W": {"id": 0, "order": 0},
-    "X": {"id": 0, "order": 0},
-    "Y": {"id": 0, "order": 0},
-    "Z": {"id": 0, "order": 0},
     "LeftCurly": {"id": 0, "order": 0},
     "Pipe": {"id": 0, "order": 0},
     "RightCurly": {"id": 0, "order": 0},
@@ -218,18 +257,6 @@
     "MouseX": {"id": 0, "order": 0},
     "MouseY": {"id": 0, "order": 0},
 
-    "BeAPremium": {"id": 3141506201045949, "order": 16},
-    "BeAVerified": {"id": 3892600671918497, "order": 18},
-    "BeAVideoStar": {"id": 2023185162721889, "order": 17},
-    "BeARobloxADM": {"id": 4313391059780047, "order": 19},
-    "BeTheRoblox": {"id": 1970917524354185, "order": 20},
-
-    "MeetAPremium": {"id": 0, "order": 21},
-    "MeetAVideoStar": {"id": 0, "order": 22},
-    "MeetAVerified": {"id": 0, "order": 23},
-    "MeetARobloxADM": {"id": 0, "order": 24},
-    "MeetTheRoblox": {"id": 0, "order": 25},
-
     "BeTheOwner": {"id": 0, "order": 0},
     "MeetTheOwner": {"id": 0, "order": 0},
     "ClickOnOwner": {"id": 0, "order": 0},
@@ -242,7 +269,7 @@
     "TouchKreek": {"id": 0, "order": 0},
     "BeAFriendOfKreek": {"id": 0, "order": 0},
 
-    "BeTheTowak ": {"id": 0, "order": 0},
+    "BeTheTowak": {"id": 0, "order": 0},
     "MeetTheTowak": {"id": 0, "order": 0},
     "ClickOnTowak": {"id": 0, "order": 0},
     "TouchTowak": {"id": 0, "order": 0},
