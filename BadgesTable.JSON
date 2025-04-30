@@ -1,127 +1,121 @@
 {
-    "Join": {"id": 3841442859060013, "order": 1},
-    "Leave": {"id": 1175077357342414, "order": 2},
-    "Oof": {"id": 1060912498727853, "order": 3},
-    "Move": {"id": 1350732283455439, "order": 4},
-    "Jump": {"id": 2720091110154689, "order": 5},
-    "Fall": {"id": 190308466718429, "order": 6},
-    "Dance": {"id": 3558944235350259, "order": 7},
-    "Sit": {"id": 350577064860602, "order": 8},
-    "SendMessage": {"id": 122719773428883, "order": 9},
+    "Join": {"id": 3841442859060013, "order": 0},
+    "Leave": {"id": 1175077357342414, "order": 0},
+    "Oof": {"id": 1060912498727853, "order": 0},
+    "Move": {"id": 1350732283455439, "order": 0},
+    "Jump": {"id": 2720091110154689, "order": 0},
+    "Fall": {"id": 190308466718429, "order": 0},
+    "Dance": {"id": 3558944235350259, "order": 0},
+    "Sit": {"id": 350577064860602, "order": 0},
+    "SendMessage": {"id": 122719773428883, "order": 0},
     
-    "PlayWithFriend": {"id": 542668233204708, "order": 10},
-    "PlayWithoutFriend": {"id": 565233463439163, "order": 11},
-    "JoinInFriend": {"id": 1045805836904562, "order": 12},
-    "BeJoinedByFriend": {"id": 294816345523948, "order": 13},
+    "PlayWithFriend": {"id": 542668233204708, "order": 0},
+    "PlayWithoutFriend": {"id": 565233463439163, "order": 0},
+    "JoinInFriend": {"id": 1045805836904562, "order": 0},
+    "BeJoinedByFriend": {"id": 294816345523948, "order": 0},
 
-    "HaveR15Avatar": {"id": 4526026398656, "order": 14},
-    "HaveR6Avatar": {"id": 2107866661645686, "order": 15},
+    "HaveR15Avatar": {"id": 4526026398656, "order": 0},
+    "HaveR6Avatar": {"id": 2107866661645686, "order": 0},
 
-    "BeAPremium": {"id": 3141506201045949, "order": 16},
-    "BeAVerified": {"id": 3892600671918497, "order": 17},
-    "BeAVideoStar": {"id": 2023185162721889, "order": 18},
-    "BeARobloxADM": {"id": 4313391059780047, "order": 19},
-    "BeTheRoblox": {"id": 1970917524354185, "order": 20},
+    "BeAPremium": {"id": 3141506201045949, "order": 0},
+    "BeAVerified": {"id": 3892600671918497, "order": 0},
+    "BeAVideoStar": {"id": 2023185162721889, "order": 0},
+    "BeARobloxADM": {"id": 4313391059780047, "order": 0},
+    "BeTheRoblox": {"id": 1970917524354185, "order": 0},
 
-    "MeetAPremium": {"id": 0, "order": 21},
-    "MeetAVideoStar": {"id": 0, "order": 22},
-    "MeetAVerified": {"id": 0, "order": 23},
-    "MeetARobloxADM": {"id": 0, "order": 24},
-    "MeetTheRoblox": {"id": 0, "order": 25},
+    "MeetAPremium": {"id": 117573866459699, "order": 0},
+    "MeetAVideoStar": {"id": 858553795299702, "order": 0},
+    "MeetAVerified": {"id": 2236685691879075, "order": 0},
+    "MeetARobloxADM": {"id": 3791518145467970, "order": 0},
+    "MeetTheRoblox": {"id": 3849539380309653, "order": 0},
 
-    "PlayOnComputer": {"id": 0, "order": 26},
-    "PlayOnPhone": {"id": 0, "order": 27},
-    "PlayOnVR": {"id": 0, "order": 28},
-    "PlayOnConsole": {"id": 0, "order": 29},
+    "PlayOnComputer": {"id": 3596679463564095, "order": 0},
+    "PlayOnPhone": {"id": 1715627396478220, "order": 0},
+    "PlayOnVR": {"id": 602798956025542, "order": 0},
+    "PlayOnConsole": {"id": 1815559041117791, "order": 0},
 
-    "a": {"id": 4436604898901963, "order": 30},
-    "A": {"id": 817206154263999, "order": 31},
+    "BuyGamepass": {"id": 852122807109211, "order": 0},
+    "BuyDeveloperProduct": {"id": 1365062654255171, "order": 0},
 
-    "b": {"id": 2337772107478095, "order": 32},
-    "B": {"id": 789511240304689, "order": 33},
+    "Hacker": {"id": 4463393798608917, "order": 0},
 
-    "c": {"id": 2835419890844079, "order": 34},
-    "C": {"id": 1522469397709776, "order": 35},
+    "a": {"id": 817206154263999, "order": 0},
+    "A": {"id": 4436604898901963, "order": 0},
 
-    "d": {"id": 4312139165115027, "order": 36},
-    "D": {"id": 2090253950044216, "order": 37},
+    "b": {"id": 789511240304689, "order": 0},
+    "B": {"id": 2337772107478095, "order": 0},
 
-    "e": {"id": 3648790868861078, "order": 38},
-    "E": {"id": 2234295577737556, "order": 39},
+    "c": {"id": 1522469397709776, "order": 0},
+    "C": {"id": 2835419890844079, "order": 0},
 
-    "f": {"id": 0, "order": 40},
-    "F": {"id": 0, "order": 41},
+    "d": {"id": 2090253950044216, "order": 0},
+    "D": {"id": 4312139165115027, "order": 0},
 
-    "g": {"id": 0, "order": 42},
-    "G": {"id": 0, "order": 43},
+    "e": {"id": 2234295577737556, "order": 0},
+    "E": {"id": 3648790868861078, "order": 0},
 
-    "h": {"id": 0, "order": 44},
-    "H": {"id": 0, "order": 45},
+    "f": {"id": 0, "order": 0},
+    "F": {"id": 0, "order": 0},
+
+    "g": {"id": 0, "order": 0},
+    "G": {"id": 0, "order": 0},
+
+    "h": {"id": 0, "order": 0},
+    "H": {"id": 0, "order": 0},
 
     "i": {"id": 0, "order": 46},
     "I": {"id": 0, "order": 47},
 
-    "j": {"id": 0, "order": 48},
-    "J": {"id": 0, "order": 49},
+    "j": {"id": 0, "order": 0},
+    "J": {"id": 0, "order": 0},
 
-    "k": {"id": 0, "order": 50},
-    "K": {"id": 0, "order": 51},
+    "k": {"id": 0, "order": 0},
+    "K": {"id": 0, "order": 0},
     
-    "l": {"id": 0, "order": 52},
-    "L": {"id": 0, "order": 53},
+    "l": {"id": 0, "order": 0},
+    "L": {"id": 0, "order": 0},
     
-    "m": {"id": 0, "order": 54},
-    "M": {"id": 0, "order": 55},
+    "m": {"id": 0, "order": 0},
+    "M": {"id": 0, "order": 0},
     
-    "n": {"id": 0, "order": 56},
-    "N": {"id": 0, "order": 57},
+    "n": {"id": 0, "order": 0},
+    "N": {"id": 0, "order": 0},
     
-    "o": {"id": 0, "order": 58},
-    "O": {"id": 0, "order": 59},
+    "o": {"id": 0, "order": 0},
+    "O": {"id": 0, "order": 0},
     
-    "p": {"id": 0, "order": 60},
-    "P": {"id": 0, "order": 61},
+    "p": {"id": 0, "order": 0},
+    "P": {"id": 0, "order": 0},
     
-    "q": {"id": 0, "order": 62},
-    "Q": {"id": 0, "order": 63},
+    "q": {"id": 0, "order": 0},
+    "Q": {"id": 0, "order": 0},
     
-    "r": {"id": 0, "order": 64},
-    "R": {"id": 0, "order": 65},
+    "r": {"id": 0, "order": 0},
+    "R": {"id": 0, "order": 0},
     
-    "s": {"id": 0, "order": 66},
-    "S": {"id": 0, "order": 67},
+    "s": {"id": 0, "order": 0},
+    "S": {"id": 0, "order": 0},
     
-    "t": {"id": 0, "order": 68},
+    "t": {"id": 0, "order": 0},
     "T": {"id": 0, "order": 0},
     
-    "u": {"id": 0, "order": 69},
-    "U": {"id": 0, "order": 70},
+    "u": {"id": 0, "order": 0},
+    "U": {"id": 0, "order": 0},
     
-    "v": {"id": 0, "order": 71},
-    "V": {"id": 0, "order": 72},
+    "v": {"id": 0, "order": 0},
+    "V": {"id": 0, "order": 0},
     
-    "w": {"id": 0, "order": 73},
-    "W": {"id": 0, "order": 74},
+    "w": {"id": 0, "order": 0},
+    "W": {"id": 0, "order": 0},
     
-    "x": {"id": 0, "order": 75},
-    "X": {"id": 0, "order": 76},
+    "x": {"id": 0, "order": 0},
+    "X": {"id": 0, "order": 0},
     
-    "y": {"id": 0, "order": 77},
-    "Y": {"id": 0, "order": 78},
+    "y": {"id": 0, "order": 0},
+    "Y": {"id": 0, "order": 0},
     
-    "z": {"id": 0, "order": 79},
-    "Z": {"id": 0, "order": 80},
-
-    "BuyGamepass": {"id": 852122807109211, "order": 81},
-    "BuyDeveloperProduct": {"id": 1365062654255171, "order": 82},
-
-    "EscapeSimulation": {"id": 1748044625967195, "order": 83},
-
-    "Hack": {"id": 4463393798608917, "order": 84},
-
-    "GoToSun": {"id": 0, "order": 0},
-    "GoToMoon": {"id": 0, "order": 0},
-    "GoToVoid": {"id": 0, "order": 0},
+    "z": {"id": 0, "order": 0},
+    "Z": {"id": 0, "order": 0},
 
     "Backspace": {"id": 0, "order": 0},
     "Tab": {"id": 0, "order": 0},
@@ -262,6 +256,14 @@
     "MouseX": {"id": 0, "order": 0},
     "MouseY": {"id": 0, "order": 0},
 
+    "EscapeSimulation": {"id": 1748044625967195, "order": 0},
+    "EnterInTemple": {"id": 3217834514055071, "order": 0},
+    "SolveFirstTemplePuzzle": {"id": 1154927918492766, "order": 0},
+
+    "GoToSun": {"id": 0, "order": 0},
+    "GoToMoon": {"id": 0, "order": 0},
+    "GoToVoid": {"id": 0, "order": 0},
+
     "BeTheOwner": {"id": 0, "order": 0},
     "MeetTheOwner": {"id": 0, "order": 0},
     "ClickOnOwner": {"id": 0, "order": 0},
@@ -280,6 +282,9 @@
     "TouchTowak": {"id": 0, "order": 0},
     "BeAFriendOfTowak": {"id": 0, "order": 0},
 
-    "GetAllBadges": {"id": 0, "order": 0}
-  }
+    "GetAllBadges": {"id": 736144088174959, "order": 0},
+
+    "UpdateVersion": {"version": 1}
+
+}
   
