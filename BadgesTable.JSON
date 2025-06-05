@@ -1,4 +1,5 @@
 {
+/*Game*/
     "Join": {"id": 3841442859060013, "order": 0, "nome": "Join", "category": "Game", "cId": 1, "howGet": "Join on the game"},
     "Leave": {"id": 1175077357342414, "order": 0, "nome": "Leave", "category": "Game", "cId": 2, "howGet": "Exit the game"},
     "Oof": {"id": 1060912498727853, "order": 0, "nome": "Off", "category": "Game", "cId": 3, "howGet": "Die"},
@@ -13,31 +14,38 @@
     "JoinInFriend": {"id": 1045805836904562, "order": 0, "nome": "", "category": "Game", "cId": 11, "howGet": "Join in a friend"},
     "BeJoinedByFriend": {"id": 294816345523948, "order": 0, "nome": "", "category": "Game", "cId": 12, "howGet": "Be joined by your friend"},
 
+    "MeetAPremium": {"id": 117573866459699, "order": 0, "nome": "Meet Premium", "category": "Game", "cId": 13, "howGet": "Meet a premium"},
+    "MeetAVerified": {"id": 2236685691879075, "order": 0, "nome": "Meet Verified", "category": "Game", "cId": 14, "howGet": "Meet a verified"},
+    "MeetAVideoStar": {"id": 858553795299702, "order": 0, "nome": "Meet Video Star", "category": "Game", "cId": 15, "howGet": "Meet a video star"},
+    "MeetARobloxADM": {"id": 3791518145467970, "order": 0, "nome": "Meet Roblox ADM", "category": "Game", "cId": 16, "howGet": "Meet a roblox ADM"},
+    "MeetTheRoblox": {"id": 3849539380309653, "order": 0, "nome": "Meet Roblox", "category": "Game", "cId": 17, "howGet": "Meet the roblox"},
+
+    "BuyGamepass": {"id": 852122807109211, "order": 0, "nome": "Gamepass", "category": "Game", "cId": 18, "howGet": "Buy a gamepass in the game"},
+    "BuyDeveloperProduct": {"id": 1365062654255171, "order": 0, "nome": "Developer Product", "category": "Game", "cId": 19, "howGet": "Buy a developer product in the game"},
+
+    "EscapeSimulation": {"id": 1748044625967195, "order": 0, "nome": "This is a simulation?", "category": "Game", "cId": 20, "howGet": "Escape from the simulation"},
+    "EnterInTemple": {"id": 3217834514055071, "order": 0, "nome": "The Temple", "category": "Game", "cId": 21, "howGet": "Enter in the temple"},
+    "SolveFirstTemplePuzzle": {"id": 1154927918492766, "order": 0, "nome": "First Temple Puzzle", "category": "Game", "cId": 22, "howGet": "Solve the first temple puzzle"},
+
+    "GetAllBadges": {"id": 736144088174959, "order": 0, "nome": "The ...", "category": "Game", "cId": 999, "howGet": "Get all the badges in the game"},
+/*Chat*/
+    "SendMessage": {"id": 122719773428883, "order": 0, "nome": "Send Message", "category": "Chat", "cId": 1, "howGet": "Send message in the chat"},
+/*Device*/
     "PlayOnComputer": {"id": 3596679463564095, "order": 0, "nome": "Computer", "category": "Device", "cId": 1, "howGet": "Play on computer"},
     "PlayOnPhone": {"id": 1715627396478220, "order": 0, "nome": "Mobile", "category": "Device", "cId": 2, "howGet": "Play on mobile"},
     "PlayOnVR": {"id": 602798956025542, "order": 0, "nome": "VR", "category": "Device", "cId": 3, "howGet": "Play on VR"},
     "PlayOnConsole": {"id": 1815559041117791, "order": 0, "nome": "Console", "category": "Device", "cId": 4, "howGet": "Play on console"},
-
+/*Avatar*/
     "HaveR15Avatar": {"id": 4526026398656, "order": 0, "nome": "R15 Avatar", "category": "Avatar", "cId": 1, "howGet": "Have R15 avatar"},
     "HaveR6Avatar": {"id": 2107866661645686, "order": 0, "nome": "R6 Avatar", "category": "Avatar", "cId": 2, "howGet": "Have R6 avatar"},
-
-    "SendMessage": {"id": 122719773428883, "order": 0, "nome": "Send Message", "category": "Chat", "cId": 1, "howGet": "Send message in the chat"},
-
-    "BeAPremium": {"id": 3141506201045949, "order": 0, "nome": "Premium", "category": "Player", "cId": 0, "howGet": "Have the premium"},
-    "BeAVerified": {"id": 3892600671918497, "order": 0, "nome": "Verified", "category": "Player", "cId": 0, "howGet": "Be verified"},
-    "BeAVideoStar": {"id": 2023185162721889, "order": 0, "nome": "Video Star", "category": "Player", "cId": 0, "howGet": "Be a video star"},
-    "BeARobloxADM": {"id": 4313391059780047, "order": 0, "nome": "Roblox ADM", "category": "Player", "cId": 0, "howGet": "Be a roblox ADM"},
-    "BeTheRoblox": {"id": 1970917524354185, "order": 0, "nome": "The Roblox", "category": "Player", "cId": 0, "howGet": "Be the roblox"},
-
-    "MeetAPremium": {"id": 117573866459699, "order": 0, "nome": "Meet Premium", "category": "Game", "cId": 0, "howGet": "Meet a premium"},
-    "MeetAVerified": {"id": 2236685691879075, "order": 0, "nome": "Meet Verified", "category": "Game", "cId": 0, "howGet": "Meet a verified"},
-    "MeetAVideoStar": {"id": 858553795299702, "order": 0, "nome": "Meet Video Star", "category": "Game", "cId": 0, "howGet": "Meet a video star"},
-    "MeetARobloxADM": {"id": 3791518145467970, "order": 0, "nome": "Meet Roblox ADM", "category": "Game", "cId": 0, "howGet": "Meet a roblox ADM"},
-    "MeetTheRoblox": {"id": 3849539380309653, "order": 0, "nome": "Meet Roblox", "category": "Game", "cId": 0, "howGet": "Meet the roblox"},
-
-    "BuyGamepass": {"id": 852122807109211, "order": 0, "nome": "Gamepass", "category": "Game", "cId": 0, "howGet": "Buy a gamepass in the game"},
-    "BuyDeveloperProduct": {"id": 1365062654255171, "order": 0, "nome": "Developer Product", "category": "Game", "cId": 0, "howGet": "Buy a developer product in the game"},
-
+/*Player*/
+    "BeAPremium": {"id": 3141506201045949, "order": 0, "nome": "Premium", "category": "Player", "cId": 1, "howGet": "Have the premium"},
+    "BeAVerified": {"id": 3892600671918497, "order": 0, "nome": "Verified", "category": "Player", "cId": 2, "howGet": "Be verified"},
+    "BeAVideoStar": {"id": 2023185162721889, "order": 0, "nome": "Video Star", "category": "Player", "cId": 3, "howGet": "Be a video star"},
+    "BeARobloxADM": {"id": 4313391059780047, "order": 0, "nome": "Roblox ADM", "category": "Player", "cId": 4, "howGet": "Be a roblox ADM"},
+    "BeTheRoblox": {"id": 1970917524354185, "order": 0, "nome": "The Roblox", "category": "Player", "cId": 5, "howGet": "Be the roblox"},
+    "Hacker": {"id": 4463393798608917, "order": 0, "nome": "Hacker", "category": "Player", "cId": 6, "howGet": "Use Hack"},
+/*Keys*/
     "a": {"id": 817206154263999, "order": 0, "nome": "a", "category": "Keys", "cId": 1, "howGet": "Press 'a'"},
     "A": {"id": 4436604898901963, "order": 0, "nome": "A", "category": "Keys", "cId": 2, "howGet": "Press 'A'"},
 
@@ -130,14 +138,6 @@
     "DPadDown": {"id": 3772612822907189, "order": 0, "nome": "DPadDown", "category": "Keys", "cId": 64, "howGet": "Press DPadDown in gamepad"},
     "DPadLeft": {"id": 4233512046382895, "order": 0, "nome": "DPadLeft", "category": "Keys", "cId": 65, "howGet": "Press DPadLeft in gamepad"},
     "DPadRight": {"id": 1948335989429816, "order": 0, "nome": "DPadRight", "category": "Keys", "cId": 66, "howGet": "Press DPadRight in gamepad"},
-
-    "EscapeSimulation": {"id": 1748044625967195, "order": 0, "nome": "This is a simulation?", "category": "Game", "cId": 0, "howGet": "Escape from the simulation"},
-    "EnterInTemple": {"id": 3217834514055071, "order": 0, "nome": "The temple", "category": "Game", "cId": 0, "howGet": "Enter in the temple"},
-    "SolveFirstTemplePuzzle": {"id": 1154927918492766, "order": 0, "nome": "First temple puzzle", "category": "Game", "cId": 0, "howGet": "Solve the first temple puzzle"},
-
-    "Hacker": {"id": 4463393798608917, "order": 0, "nome": "Hacker", "category": "Player", "cId": 0, "howGet": "Use Hack"},
-    "GetAllBadges": {"id": 736144088174959, "order": 0, "nome": "The ...", "category": "Game", "cId": 0, "howGet": "Get all the badges in the game"},
-
+/*Jogo*/
     "UpdateVersion": {"version": 1}
-
 }
